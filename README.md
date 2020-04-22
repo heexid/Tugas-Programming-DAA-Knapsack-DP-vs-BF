@@ -1,6 +1,6 @@
 # Tugas-Programming-DAA-Knapsack-DP-vs-BF-Greedy
 DAA Pemrograman
-Luqman Haries - 1301180072 - IF4208
+Luqman Haries - IF4208
 
 1. Program yang akan dibuat dengan implementasi : Dynamic Programming
 2. Program yang akan dibuat dengan topik : Knapsack
