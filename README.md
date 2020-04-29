@@ -16,10 +16,7 @@ Alur penjelasan
 2. Implementasi program yang dipilih
 3. Topik program
 4. Contoh case
-5. Jelaskan Greedy brute force knapsack
-6. Jelaskan DP knapsack tanpa rekursif
-7. Penggunaan algoritma DP pada tahap 1-2 (coretan kertas)
-8. Hitung T(n) Greedy
-9. Hitung T(n) Knapsack
-10. Bandingkan
-11. Salam penutup
+5. Hitung T(n) Greedy
+6. Hitung T(n) Knapsack
+7. Bandingkan
+8. Salam penutup
