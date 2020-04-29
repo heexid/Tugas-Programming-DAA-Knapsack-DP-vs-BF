@@ -1,5 +1,4 @@
 def bruteForce(W,berat,nilai,deep,n,kondisi):
-    #greedy
     if deep == n:
         cost = 0
         val = 0
