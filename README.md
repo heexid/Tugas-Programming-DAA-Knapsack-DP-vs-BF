@@ -12,11 +12,9 @@ Luqman Haries - IF4208
 
 
 Alur penjelasan
-1. Perkenalkan diri
-2. Implementasi program yang dipilih
-3. Topik program
-4. Contoh case
-5. Hitung T(n) Greedy
-6. Hitung T(n) Knapsack
-7. Bandingkan
-8. Salam penutup
+1. Implementasi program yang dipilih
+2. Topik program
+3. Contoh case
+4. Hitung T(n) Greedy
+5. Hitung T(n) Knapsack
+6. Bandingkan
