@@ -58,7 +58,7 @@ def inputBeratNilai():
     print("Knapsack Dynamic Programming")
     print(Knapsack(W,berat,nilai,n))
     print()
-    print("Knapsack bruteforce greedy")
+    print("Knapsack bruteforce")
     bruteForce(W,berat,nilai,0,n,kondisi)
     
 
