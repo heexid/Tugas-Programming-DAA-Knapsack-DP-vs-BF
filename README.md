@@ -9,12 +9,3 @@ Luqman Haries - IF4208
 5. Demo Aplikasi
 6. Penjelasan kompleksitas waktu T(n)
 7. Bandingkan dengan Kompleksitas brute force greedy
-
-
-Alur penjelasan
-1. Implementasi program yang dipilih
-2. Topik program
-3. Contoh case
-4. Hitung T(n) Greedy
-5. Hitung T(n) Knapsack
-6. Bandingkan
