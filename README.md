@@ -1,4 +1,4 @@
-# Tugas-Programming-DAA-Knapsack-DP-vs-BruteForce-
+# Tugas-Programming-DAA-Knapsack-DP-vs-BruteForce
 DAA Pemrograman
 Luqman Haries - IF4208
 
