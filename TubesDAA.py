@@ -19,11 +19,9 @@ def bruteForce(W,berat,nilai,deep,n,kondisi):
     
 
 def Knapsack(Wmax,berat,nilai,n):
-    #dengan Dynamic programming tanpa rekursif
     #Wmax untuk max, berat dan nilai array dengan panjang n
     #K adalah tabel hasil setiap iterasi yang berisi nilai dari setiap tahap
     #K array 2 dimensi K[i][w] menyimpan nilai tahap ke-i dengan nilai w
-    # +1 karena mulai dari nilai basis f0(y)=0
     #function mengembalikan max nilai
     K = [[0 for x in range(Wmax + 1)] for x in range(n + 1)]
     
@@ -32,12 +30,13 @@ def Knapsack(Wmax,berat,nilai,n):
         print("Tahap ke-",i)
         for w in range(Wmax+1):
             if i==0 or w == 0:
-                #basis
+                #basis f0(y)
                 K[i][w] = 0
             elif berat[i-1] <= w:
-                #rekurens
+                #rekurens beratw <= Wmax
                 K[i][w] = max(K[i-1][w],nilai[i-1] + K[i-1][w-berat[i-1]])
             else:
+                #beratw > Wmax
                 K[i][w] = K[i-1][w]
 
             #Output pertahap
