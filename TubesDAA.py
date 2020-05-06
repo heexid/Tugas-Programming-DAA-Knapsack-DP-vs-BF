@@ -61,5 +61,5 @@ def inputBeratNilai():
     print("Knapsack bruteforce")
     bruteForce(W,berat,nilai,0,n,kondisi)
     
-
+#Main
 inputBeratNilai()
